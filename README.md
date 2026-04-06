@@ -40,6 +40,9 @@ Managed a large number of interconnections, requiring careful routing and debugg
 Encountered challenges related to signal integrity, wiring complexity, and physical layout constraints
 Implemented iterative debugging to ensure stable operation despite hardware limitations
 
+Breadboard setup:
+![Breadboard Wiring](wiring%20mx.jpg)
+
 Future Improvements:
 
 Transition to PCB-based design for improved reliability and compactness
