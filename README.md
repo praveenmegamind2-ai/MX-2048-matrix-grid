@@ -33,4 +33,19 @@ Successfully developed a working LED matrix capable of displaying real-time mess
 Achieved stable and responsive updates via WiFi-connected devices
 Demonstrated efficient control of a high-density LED grid using minimal I/O resources
 
+🔧 Design Challenges & Improvements:
+
+Developed the system using breadboard-based prototyping due to limited access to custom PCB fabrication
+Managed a large number of interconnections, requiring careful routing and debugging of signal paths
+Encountered challenges related to signal integrity, wiring complexity, and physical layout constraints
+Implemented iterative debugging to ensure stable operation despite hardware limitations
+
+Future Improvements:
+
+Transition to PCB-based design for improved reliability and compactness
+Optimize wiring layout to reduce noise and improve maintainability
+Modularize the system for easier scalability
+
+
+
 
