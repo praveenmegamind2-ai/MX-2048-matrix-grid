@@ -11,6 +11,7 @@ Shift register-based control system for efficient data handling
 Column-by-column scanning for dynamic display rendering
 WiFi-based message input via a central server system
 Multi-device connectivity allowing remote message updates
+Upload and run videos in the internet
 
 As part of the electrical engineering team, I was responsible for:
 
@@ -32,6 +33,8 @@ Large-scale circuit wiring and layout planning
 Successfully developed a working LED matrix capable of displaying real-time messages
 Achieved stable and responsive updates via WiFi-connected devices
 Demonstrated efficient control of a high-density LED grid using minimal I/O resources
+
+
 
 🔧 Design Challenges & Improvements:
 
