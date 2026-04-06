@@ -34,7 +34,7 @@ Successfully developed a working LED matrix capable of displaying real-time mess
 Achieved stable and responsive updates via WiFi-connected devices
 Demonstrated efficient control of a high-density LED grid using minimal I/O resources
 
-
+![MX2048 Running](IMG_3421.jpg)
 
 🔧 Design Challenges & Improvements:
 
